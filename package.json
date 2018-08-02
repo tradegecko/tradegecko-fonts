@@ -1,10 +1,10 @@
 {
   "name": "@tradegecko/fonts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Awesome custom fonts for tradegecko apps",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/tradegecko/tradegecko-fonts.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tradegecko/tradegecko-fonts.git"
   },
   "keywords": [
     "tradegecko-fonts",
