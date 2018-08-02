@@ -1,0 +1,15 @@
+{
+  "name": "tradegecko-fonts",
+  "version": "0.0.0",
+  "description": "Awesome tradegecko fonts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tradegecko-fonts",
+    "custom-fonts",
+    "fonts"
+  ],
+  "author": "",
+  "license": "MIT"
+}
