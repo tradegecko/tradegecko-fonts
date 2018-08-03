@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TradeGecko';
-  src: font-url('../fonts/TradeGecko.eot');
-  src: font-url('../fonts/TradeGecko.eot?#iefix') format('embedded-opentype'),
-    font-url('../fonts/TradeGecko.svg#icomoon') format('svg'),
-    font-url('../fonts/TradeGecko.woff') format('woff'),
-    font-url('../fonts/TradeGecko.ttf') format('truetype');
+  src: url('../fonts/TradeGecko.eot');
+  src: url('../fonts/TradeGecko.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/TradeGecko.svg#icomoon') format('svg'),
+    url('../fonts/TradeGecko.woff') format('woff'),
+    url('../fonts/TradeGecko.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
