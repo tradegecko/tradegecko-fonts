@@ -7,9 +7,14 @@
     "url": "https://github.com/tradegecko/tradegecko-fonts.git"
   },
   "keywords": [
+    "ember-addon",
     "tradegecko-fonts",
     "custom-fonts",
     "fonts"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli-funnel": "^2.0.1",
+    "broccoli-merge-trees": "^3.0.0"
+  }
 }
